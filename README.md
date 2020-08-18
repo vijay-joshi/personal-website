@@ -4,7 +4,9 @@ This is initial skeleton of my perosnal website(WIP) created using the [Hexo]([H
 
 ### Installation
 ----
-Follow these instructions to run locally:
+Detailed instructions on how to build and deploy website using hexo and deploy to firebase will follow in an upcoming blog post (I am moving all my repos to git, it will take a few days).
+
+For now, follow these instructions to run locally (make sure you have Hexo CLI installed globally):
 ```sh
 # clone the repo
 $ git clone [https://github.com/vijay-joshi/personal-website.git]
@@ -21,7 +23,7 @@ $ hexo serve
 # generate static files to public directory which you can host to any host
 $ hexo generate
 ```
-Detailed instructions to build and deploy website to follow soon(I am moving all my repos to git, it will take a few days). For now you can use the following
+
 
 ### License
 ----
