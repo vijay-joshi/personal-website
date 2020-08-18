@@ -1,6 +1,6 @@
 # Personal website
 ----
-This is initial skeleton of my perosnal website(WIP) created using the [Hexo]([Hexo]) framework and is hosted with Firebase. This will update frequently.
+This is initial skeleton of my perosnal website(WIP) created using the [Hexo]([https://hexo.io/]) framework and is hosted with Firebase. This will update frequently.
 
 ### Installation
 ----
